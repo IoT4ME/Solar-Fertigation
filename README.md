@@ -1,3 +1,3 @@
-# Solar-Fertigation
+# Solar Fertigation Repo
 Repository from SF Dev
 
