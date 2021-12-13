@@ -1,6 +1,5 @@
 # Solar Fertigation Repository
 - Repository di Solar Fertigation costituito da più branch:
-1. SF IoT Projects;
-2. SF HW Dev;
-3. SF SW Dev;
-4. SF Cloud/AWS Dev
+1. New SF Development;
+2. Old SF Development;
+3. SF IoT Projects;
